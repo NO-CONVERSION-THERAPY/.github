@@ -1,12 +1,43 @@
-## Hi there 👋
+# Victims Union
 
-<!--
+**凡真心所向，皆成迴響；足以在偏見的荒原，震碎扭曲的枷鎖。**
 
-**Here are some ideas to get you started:**
+## 我們是誰？
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+我們是 **Victims Union**（受害者聯盟），一個由扭轉治療（conversion therapy）受害者、倖存者與支持者共同組成的獨立組織。
+
+我們堅信：每一個受過傷害的聲音都不該被沉默，每一間仍在運作的扭轉機構都必須被曝光。我們致力於終結一切形式的身心折磨與「性傾向/性別認同改變」偽治療。
+
+### 我們的使命
+- 收集並安全保存受害者真實故事與證詞  
+- 公開曝光仍在運作的扭轉治療機構。
+- 建立公開透明的機構地圖與資料庫，讓大眾能及時辨識並避開風險  
+- 推動社會教育與政策討論，終止這類違反人權的傷害行為  
+
+每一份匿名提交、每一次分享，都是對受害者的陪伴，也是對偏見與枷鎖最有力的反抗。
+
+### 主要行動連結
+- **主網站** → [https://victimsunion.org](https://victimsunion.org)
+- **匿名填報表單**（歡迎受害者、知情者、家屬提交） → [https://victimsunion.org/form](https://victimsunion.org/form)
+- **扭轉機構綜合地圖** → [https://victimsunion.org/map](https://victimsunion.org/map)
+- **文庫 / 受害故事與文章** → [https://victimsunion.org/blog](https://victimsunion.org/blog)
+
+### 目前進展
+我們已收到數百份真實提交，地圖上標記了遍布中國大陸的機構與案例。資料持續更新中。
+
+---
+
+## 消歧異
+
+各個地區對**扭轉機構**的定義和稱呼略有偏差，在這裡我們做出一個單獨性的定義：
+**任何以強制手段做出背離受害者意願的行為並且侵害受害者自由權、通訊自由權、通訊秘密權的任何社會實體，包括但不限於公司、學校、公共服務群體等，為本組織對“扭轉機構”的定義**
+
+“受害者”適用範圍：
+**任何遭遇上述定義的扭轉機構的任何背離其意願行為的自然人（包括成年人和未成年人）**
+
+---
+
+**加入我們，一起讓真心發出迴響。**  
+當足夠多的聲音聚集，偏見將無處遁形，扭曲的枷鎖終將被徹底震碎。
+
+**Victims Union - No Conversion Therapy**
